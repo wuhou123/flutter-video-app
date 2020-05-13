@@ -1,0 +1,129 @@
+{
+  "@@last_modified": "2020-03-28T10:35:53.460482",
+  "splash_meet": "遇见你,真美好",
+  "@splash_meet": {
+    "description": "splash_meet",
+    "type": "text",
+    "placeholders": {}
+  },
+  "skip": "跳过",
+  "@skip": {
+    "description": "skip",
+    "type": "text",
+    "placeholders": {}
+  },
+  "projection": "热映",
+  "@projection": {
+    "description": "projection",
+    "type": "text",
+    "placeholders": {}
+  },
+ "billboard": "榜单",
+   "@billboard": {
+     "description": "billboard",
+     "type": "text",
+     "placeholders": {}
+   },
+   "mine": "我的",
+   "@mine": {
+     "description": "mine",
+     "type": "text",
+     "placeholders": {}
+   },
+"showing_projection": "正在热映",
+  "@showing_projection": {
+    "description": "showing_projection",
+    "type": "text",
+    "placeholders": {}
+  },
+  "upcoming_projection": "即将上映",
+  "@upcoming_projection": {
+    "description": "upcoming_projection",
+    "type": "text",
+    "placeholders": {}
+  },
+  "network_poor_tip": "网络不给力～请检查网络设置",
+  "@network_poor_tip": {
+    "description": "network_poor_tip",
+    "type": "text",
+    "placeholders": {}
+  },
+  "load_data_failed_tip": "加载数据失败～请刷新",
+  "@load_data_failed_tip": {
+    "description": "load_data_failed_tip",
+    "type": "text",
+    "placeholders": {}
+  },
+  "error_code": "错误码",
+  "@error_code": {
+    "description": "error_code",
+    "type": "text",
+    "placeholders": {}
+  },
+  "empty_data_tip": "数据为空～请刷新",
+  "@empty_data_tip": {
+    "description": "empty_data_tip",
+    "type": "text",
+    "placeholders": {}
+  },
+  "refresh": "刷新",
+  "@refresh": {
+    "description": "refresh",
+    "type": "text",
+    "placeholders": {}
+  },
+  "buy": "购票",
+  "@buy": {
+    "description": "buy",
+    "type": "text",
+    "placeholders": {}
+  },
+  "seen": "看过",
+  "@seen": {
+    "description": "seen",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "取消",
+  "@cancel": {
+    "description": "cancel",
+    "type": "text",
+    "placeholders": {}
+  },
+  "search_content_hint": "请输入搜索内容",
+  "@search_content_hint": {
+    "description": "search_content_hint",
+    "type": "text",
+    "placeholders": {}
+  },
+     "want_to_see": "想看",
+     "@want_to_see": {
+       "description": "want_to_see",
+       "type": "text",
+       "placeholders": {}
+     },
+     "no_scare": "暂无评分",
+     "@no_scare": {
+       "description": "no_scare",
+       "type": "text",
+       "placeholders": {}
+     },
+        "top_250": "TOP250",
+        "@top_250": {
+          "description": "top_250",
+          "type": "text",
+          "placeholders": {}
+        },
+        "all": "全部",
+        "@all": {
+          "description": "all",
+          "type": "text",
+          "placeholders": {}
+        },
+        "other_billboard": "其他榜单",
+        "@other_billboard": {
+          "description": "other_billboard",
+          "type": "text",
+          "placeholders": {}
+        }
+}
